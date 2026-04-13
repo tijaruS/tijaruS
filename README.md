@@ -33,7 +33,7 @@ os          = "Arch Linux (btw)"
 
 I write C++ and stare at kernel internals. Occasionally ship web apps to prove I can.
 Working toward ML Systems research — currently building the foundations: systems programming,
-open source contribution, and eventually CUDA kernels.
+open source contribution.
 
 ---
 
