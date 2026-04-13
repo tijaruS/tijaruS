@@ -25,13 +25,10 @@
 $ cat /etc/surajit.conf
 
 name        = "Surajit Das"
-location    = "Dhanbad, India"
-degree      = "B.Sc Engineering Physics, IIT ISM (2027)"
+degree      = "B.Tech Engineering Physics, IIT ISM (2027)"
 interests   = ["Systems Programming", "ML Systems", "Open Source", "Linux"]
 editor      = "Neovim"
 os          = "Arch Linux (btw)"
-sport       = "Olympic Weightlifting"
-currently   = "GSoC 2026 applicant @ Submitty & OneBusAway"
 ```
 
 I write C++ and stare at kernel internals. Occasionally ship web apps to prove I can.
@@ -96,6 +93,3 @@ Data       →   Python · TensorFlow · Scikit-learn · PostgreSQL · MongoDB
 
 ---
 
-<div align="center">
-<sub>200+ DSA problems · Olympic weightlifter · Physics nerd · Building in public</sub>
-</div>
