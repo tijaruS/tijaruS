@@ -27,7 +27,7 @@
   <a href="https://leetcode.com/surajitdalelpara25" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode" />
   </a>
-  ![Profile views](https://komarev.com/ghpvc/?username=tijaruS&style=for-the-badge&color=2563EB)
+  <img src="https://komarev.com/ghpvc/?username=tijaruS&style=for-the-badge&color=2563EB" height="25" alt="profile views" />
 </div>
 
 ###
@@ -128,8 +128,11 @@ open source contribution.
 ## Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tijaruS&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=tijaruS&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=tijaruS&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" height="150" alt="streak graph" />
 </div>
 
 ---
+
+<div align="center">
+<sub>200+ DSA problems · Olympic weightlifter · Physics nerd · Building in public</sub>
+</div>
