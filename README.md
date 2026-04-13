@@ -83,13 +83,14 @@ Data       →   Python · TensorFlow · Scikit-learn · PostgreSQL · MongoDB
 
 ## Stats
 
+
+
 <div align="center">
-
-![Surajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tijaruS&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tijaruS&layout=compact&hide_border=true&theme=default&langs_count=6)
-
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=tijaruS&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ 
 </div>
+
 
 ---
 
