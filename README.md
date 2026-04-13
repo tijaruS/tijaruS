@@ -45,6 +45,7 @@ open source contribution.
 
 | PR | Description | Stack |
 |----|-------------|-------|
+| [#12744](https://github.com/Submitty/Submitty/pull/12744) | ✅ Merged | Fix Notebook Builder description box to resize vertically only | CSS |
 | [#12713](https://github.com/Submitty/Submitty/pull/12713) | Fix comment-box formatting in TA Grading view | PHP, Twig |
 | [#12626](https://github.com/Submitty/Submitty/pull/12626) | Fix Python input echo/newline bug in C++ autograder core | C++, Linux |
 | [#12621](https://github.com/Submitty/Submitty/pull/12621) | Resolve Notebook code-box overflow (CodeMirror scroll/resize) | CSS, Twig |
