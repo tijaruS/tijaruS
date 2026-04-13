@@ -132,7 +132,3 @@ open source contribution.
 </div>
 
 ---
-
-<div align="center">
-<sub>200+ DSA problems · Olympic weightlifter · Physics nerd · Building in public</sub>
-</div>
