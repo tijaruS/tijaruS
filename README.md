@@ -45,11 +45,6 @@ interests   = ["Systems Programming", "ML Systems", "Open Source", "Linux"]
 editor      = "Neovim"
 os          = "Arch Linux (btw)"
 ```
-
-I write C++ and stare at kernel internals. Occasionally ship web apps to prove I can.
-Working toward ML Systems research — currently building the foundations: systems programming,
-open source contribution.
-
 ---
 
 ## Stack
