@@ -10,12 +10,27 @@
 
 **Engineering Physics @ IIT (ISM) Dhanbad · Class of 2027**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-surajitdas25-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/surajitdas25)
-[![LeetCode](https://img.shields.io/badge/LeetCode-surajitdalelpara25-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/surajitdalelpara25)
-[![Email](https://img.shields.io/badge/Email-surajitdalelpara25%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:surajitdalelpara25@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=tijaruS&style=flat-square&color=2563EB)
-
 </div>
+
+###
+
+<div align="center">
+  <a href="https://linkedin.com/in/surajitdas25" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" />
+  </a>
+  <a href="https://twitter.com/surajit56525098" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter" />
+  </a>
+  <a href="mailto:surajitdalelpara25@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail" />
+  </a>
+  <a href="https://leetcode.com/surajitdalelpara25" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode" />
+  </a>
+  ![Profile views](https://komarev.com/ghpvc/?username=tijaruS&style=for-the-badge&color=2563EB)
+</div>
+
+###
 
 ---
 
@@ -37,12 +52,50 @@ open source contribution.
 
 ---
 
+## Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="50" alt="Svelte" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="50" alt="Neovim" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+</div>
+
+---
+
 ## Open Source
 
 > Production codebases. Real reviewers. Actual bugs.
- 
+
 **[Submitty](https://github.com/Submitty/Submitty)** — Autograding platform @ RPI (765+ ⭐)
- 
+
 | PR | Status | Description | Stack |
 |----|--------|-------------|-------|
 | [#12744](https://github.com/Submitty/Submitty/pull/12744) | ✅ Merged | Fix Notebook Builder description box to resize vertically only | CSS |
@@ -50,13 +103,13 @@ open source contribution.
 | [#12626](https://github.com/Submitty/Submitty/pull/12626) | 🔁 Open | Fix Python input echo/newline bug in C++ autograder core | C++, Linux |
 | [#12621](https://github.com/Submitty/Submitty/pull/12621) | 🔁 Open | Resolve Notebook code-box overflow (CodeMirror scroll/resize) | CSS, Twig |
 | [#12609](https://github.com/Submitty/Submitty/pull/12609) | 🔁 Open | Deprecate `submitty_count` → `submitty_count_ts` | Python |
- 
+
 **[OneBusAway / Wayfinder](https://github.com/OneBusAway/wayfinder)** — Transit web app (75+ ⭐)
- 
+
 | PR | Status | Description | Stack |
 |----|--------|-------------|-------|
 | [#422](https://github.com/OneBusAway/wayfinder/pull/422) | 🔁 Open | Localise hardcoded `aria-label` strings (WCAG 2.1 AA) | TypeScript, SvelteKit |
- 
+
 ---
 
 ## Projects
@@ -72,26 +125,11 @@ open source contribution.
 
 ---
 
-## Stack
-
-```
-Systems    →   C · C++ · Linux (Arch) · Bash · Neovim · tmux · Docker · Vagrant
-Web        →   TypeScript · JavaScript · React · Next.js · SvelteKit · Node.js
-Data       →   Python · TensorFlow · Scikit-learn · PostgreSQL · MongoDB
-```
-
----
-
 ## Stats
 
-
-
 <div align="center">
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tijaruS&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
- 
+  <img src="https://streak-stats.demolab.com?user=tijaruS&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=tijaruS&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
 </div>
 
-
 ---
-
