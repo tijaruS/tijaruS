@@ -100,7 +100,7 @@ os          = "Arch Linux (btw)"
 
 | PR | Status | Description | Stack |
 |----|--------|-------------|-------|
-| [#422](https://github.com/OneBusAway/wayfinder/pull/422) | 🔁 Open | Localise hardcoded `aria-label` strings (WCAG 2.1 AA) | TypeScript, SvelteKit |
+| [#422](https://github.com/OneBusAway/wayfinder/pull/422) | ✅ Merged | Localise hardcoded `aria-label` strings (WCAG 2.1 AA) | TypeScript, SvelteKit |
 
 ---
 
