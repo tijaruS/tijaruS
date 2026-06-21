@@ -93,7 +93,7 @@ os          = "Arch Linux (btw)"
 | [#12744](https://github.com/Submitty/Submitty/pull/12744) | ✅ Merged | Fix Notebook Builder description box to resize vertically only | CSS |
 | [#12713](https://github.com/Submitty/Submitty/pull/12713) | ✅ Merged | Fix comment-box formatting in TA Grading view | PHP, Twig |
 | [#12626](https://github.com/Submitty/Submitty/pull/12626) | ❌ Closed | Fix Python input echo/newline bug in C++ autograder core | C++, Linux |
-| [#12621](https://github.com/Submitty/Submitty/pull/12621) | 🔁 Open | Resolve Notebook code-box overflow (CodeMirror scroll/resize) | CSS, Twig |
+| [#12621](https://github.com/Submitty/Submitty/pull/12621) | ✅ Merged | Resolve Notebook code-box overflow (CodeMirror scroll/resize) | CSS, Twig |
 | [#12609](https://github.com/Submitty/Submitty/pull/12609) | 🔁 Open | Deprecate `submitty_count` → `submitty_count_ts` | Python |
 
 **[OneBusAway / Wayfinder](https://github.com/OneBusAway/wayfinder)** — Transit web app (75+ ⭐)
